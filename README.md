@@ -62,9 +62,6 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
     - [⏱ Streak Stats](#-streak-stats-)
     - [🏆 Trophy Stats](#-trophy-stats-)
 
-- [How To Contribute](#-how-to-contribute-)
-- [Creators](#creators-)
-- [See More Repositories](#see-more-repositories)
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
@@ -930,3 +927,4 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 4 - Paste on category with `Alphabetical` order.
 
 5 - Commit your changes.
+s
