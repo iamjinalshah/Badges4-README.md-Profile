@@ -927,4 +927,6 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 4 - Paste on category with `Alphabetical` order.
 
 5 - Commit your changes.
-s
+
+##### Let's Contribute :smiley:
+ 
